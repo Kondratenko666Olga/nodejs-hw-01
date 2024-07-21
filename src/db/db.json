@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "2c796a9f-bb0c-4e65-a332-2c36e6245ecd",
+    "name": "Benny Kris",
+    "phone": "463.745.1747",
+    "email": "Alyce52@hotmail.com",
+    "job": "Central Functionality Director"
+  },
+  {
+    "id": "0a109af5-ea94-40ad-a47e-89476e05a842",
+    "name": "Lynn Lynch",
+    "phone": "(209) 721-6100",
+    "email": "Lola8@gmail.com",
+    "job": "Central Interactions Administrator"
+  },
+  {
+    "id": "4a073b87-af57-4483-b5cc-d0096012daf9",
+    "name": "Bertha Morar",
+    "phone": "867.588.7683 x9754",
+    "email": "Luisa.Fadel@hotmail.com",
+    "job": "Chief Accounts Technician"
+  },
+  {
+    "id": "9daba114-8de6-4b5e-aa5f-d526c5d45d9b",
+    "name": "Kerry Gibson",
+    "phone": "1-850-432-0088 x3422",
+    "email": "Fidel32@gmail.com",
+    "job": "Corporate Directives Architect"
+  }
+]
