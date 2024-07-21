@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "id": "f4796bf1-f07e-4be8-ba6b-6fd0610eb4dd",
+    "name": "Roberta Armstrong",
+    "phone": "831-236-2037",
+    "email": "Dillan32@hotmail.com",
+    "job": "Internal Brand Developer"
+  },
+  {
+    "id": "3fa82e57-725d-4982-8310-709d365f1311",
+    "name": "Jackie Pagac",
+    "phone": "(555) 725-4144 x80013",
+    "email": "Ron54@yahoo.com",
+    "job": "Future Infrastructure Designer"
+  },
+  {
+    "id": "b65073d3-b7c6-45e4-8f03-7951924e7f1d",
+    "name": "Sophie Zulauf",
+    "phone": "903.819.7090 x022",
+    "email": "Orville_Schinner12@gmail.com",
+    "job": "National Intranet Director"
+  },
+  {
+    "id": "1ef7eb42-e3e5-4c37-adc3-a85faf56eea7",
+    "name": "Rachel Schowalter",
+    "phone": "778-648-0755 x02514",
+    "email": "Lyric.Prohaska7@hotmail.com",
+    "job": "Dynamic Creative Specialist"
+  },
+  {
+    "id": "9fed05f6-2634-4fed-a599-6157c98f4787",
+    "name": "Gilbert Brakus",
+    "phone": "712.629.4264 x2874",
+    "email": "Wayne_Auer96@yahoo.com",
+    "job": "Customer Applications Engineer"
+  }
+]
